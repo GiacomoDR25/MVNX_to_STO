@@ -1,6 +1,5 @@
 # MVNX_to_STO
 These functions convert .mvnx format in .sto format.
-CONVERT FILE FORMAT FROM .mvnx TO .sto
 
 Input: Xsens file format .mvnx
 
